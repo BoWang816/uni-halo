@@ -35,19 +35,19 @@
         }
       }
     },
-    {
-      "path": "pages/tabbar/gallery/gallery",
-      "style": {
-        "navigationBarTitleText": "图库",
-        "enablePullDownRefresh": true,
-        "app-plus": {
-          "pullToRefresh": {
-            "color": "#03a9f4",
-            "style": "circle"
-          }
-        }
-      }
-    },
+    // {
+    //   "path": "pages/tabbar/gallery/gallery",
+    //   "style": {
+    //     "navigationBarTitleText": "图库",
+    //     "enablePullDownRefresh": true,
+    //     "app-plus": {
+    //       "pullToRefresh": {
+    //         "color": "#03a9f4",
+    //         "style": "circle"
+    //       }
+    //     }
+    //   }
+    // },
     {
       "path": "pages/tabbar/moments/moments",
       "style": {
@@ -313,12 +313,12 @@
         "pagePath": "pages/tabbar/category/category",
         "text": "分类"
       },
-      {
-        "iconPath": "static/tabbar/select_gallery.png",
-        "selectedIconPath": "static/tabbar/select_gallery_active.png",
-        "pagePath": "pages/tabbar/gallery/gallery",
-        "text": "图库"
-      },
+      // {
+      //   "iconPath": "static/tabbar/select_gallery.png",
+      //   "selectedIconPath": "static/tabbar/select_gallery_active.png",
+      //   "pagePath": "pages/tabbar/gallery/gallery",
+      //   "text": "图库"
+      // },
       {
         "iconPath": "static/tabbar/select_links.png",
         "selectedIconPath": "static/tabbar/select_links_active.png",
